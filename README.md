@@ -19,6 +19,7 @@
 - [FooBar](https://github.com/BazTeeVee/FooBar)
 ---
 ### Possible future projects
+- Mass Shooting / Gun Violence Twitter Bot
 - Better Discord plugin: Spoiler Hotkey
 - Life Simulator
 - Crust (Rust with C-Syntax)
