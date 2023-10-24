@@ -1,22 +1,21 @@
-### 👋 Hi, I’m Athena, or baz
+### 👋 Hi! I’m Athena or aqua
 
-### I currently know
-- Java
+### I Currently Know
+- Java / C#
+- C / C++
 - JavaScript / TypeScript
-- React.js
+- React.js / Next.js
 - Python
 ---
-### I'm interested in
-- Minecraft plugins / mods
+### I've Previously Worked on
+- Minecraft plugins/mods
 - Twitch, Discord, and other bots
-- Quality of life applications such as internet browser plugins
+- Quality of life applications such as application plugins
 - Websites
-
-#### Let me know if you would like me to work on something for you!
 ---
 ### Currently "Active" Projects
-- [Quell](https://github.com/BazTeeVee/Quell)
-- [FooBar](https://github.com/BazTeeVee/FooBar)
+- [Quell](https://github.com/aquafenaa/Quell)
+- [FooBar](https://github.com/aquafenaa/FooBar)
 ---
-### How to reach me
-#### I am on Discord (baz#6969) and Twitter (BazTeeVee). Feel free to message me about whatever! 
+
+Feel free to contact me on Discord! [@aquafenaa](https://discord.com/users/224494447239495682)
