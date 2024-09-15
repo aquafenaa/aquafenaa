@@ -1,20 +1,11 @@
-### 👋 Hi! I’m Athena or aqua
+### 👋 Hi! I’m Athena
 
-### I Currently Know
-- Java / C#
-- C / C++
-- JavaScript / TypeScript
-- React.js / Next.js
-- Python
----
 ### I've Previously Worked on
 - Minecraft plugins/mods
 - Twitch, Discord, and other bots
-- Quality of life applications such as application plugins
 - Websites
 ---
 ### Currently "Active" Projects
-- [Quell](https://github.com/aquafenaa/Quell)
 - [FooBar](https://github.com/aquafenaa/FooBar)
 ---
 
