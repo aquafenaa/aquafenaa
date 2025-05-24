@@ -1,12 +1,13 @@
 ### 👋 Hi! I’m Athena
 
 ### I've Previously Worked on
-- Minecraft plugins/mods
+- Minecraft plugins & mods
 - Twitch, Discord, and other bots
 - Websites
 ---
 ### Currently "Active" Projects
 - [FooBar](https://github.com/aquafenaa/FooBar)
+- [Project Ares](https://github.com/aquafenaa/ProjectAres)
 ---
 
 Feel free to contact me on Discord! [@aquafenaa](https://discord.com/users/224494447239495682)
