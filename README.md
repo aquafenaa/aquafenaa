@@ -7,7 +7,7 @@
 ---
 ### Currently "Active" Projects
 - [FooBar](https://github.com/aquafenaa/FooBar)
-- [Project Ares](https://github.com/aquafenaa/ProjectAres)
+- [BetterMessageClickActions](https://github.com/aquafenaa/Vencord-Better-Message-Click-Actions/blob/better-message-actions/src/plugins/betterMessageActions/index.tsx)
 ---
 
 Feel free to contact me on Discord! [@aquafenaa](https://discord.com/users/224494447239495682)
